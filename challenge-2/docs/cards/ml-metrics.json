@@ -1,0 +1,8 @@
+{
+  "task": "challenge-2",
+  "metrics": {
+    "f1_score": 0.8965,
+    "cv_scores": []
+  },
+  "notes": "One-Class SVM with ConvNeXt features, ensemble of nu parameters."
+} 

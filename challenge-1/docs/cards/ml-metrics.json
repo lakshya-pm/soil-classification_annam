@@ -1,0 +1,19 @@
+{
+  "_comment": "This JSON file containing the ml-metrics",
+  "Name": "Annam.ai",
+  "Kaggle Username": "annam.ai",
+  "Team Name": "soilclassifiers",
+  "f1 scores": {
+    "_comment": "Here are the class wise f1 scores",
+    "alluvial soil": 0.48,
+    "red soil": 0.48,
+    "black soil": 0.48,
+    "clay soil": 0.48
+  },
+  "task": "challenge-1",
+  "metrics": {
+    "cv_f1_scores": [0.978, 0.979, 0.978, 0.980, 0.978],
+    "mean_cv_f1": 0.9779
+  },
+  "notes": "ConvNeXt-Base ensemble, 5-fold CV, weighted loss."
+}
